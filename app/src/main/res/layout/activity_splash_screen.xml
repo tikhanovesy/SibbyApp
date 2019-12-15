@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/img_background"
-    tools:context=".SplashScreen">
+    tools:context=".SplashScreenActivity">
 
     <ImageView
         android:id="@+id/image_logo"
@@ -43,7 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="20dp"
             android:layout_marginTop="30dp"
-            android:progress="23"
+            android:progress="40"
             android:progressDrawable="@drawable/custom_progbar" />
 
     </LinearLayout>

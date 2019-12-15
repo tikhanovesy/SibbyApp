@@ -21,7 +21,7 @@
         <activity android:name=".BahasaIsyarat" />
         <activity android:name=".BelajarActivity" />
         <activity android:name=".InputNamaActivity" />
-        <activity android:name=".SplashScreen">
+        <activity android:name=".SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

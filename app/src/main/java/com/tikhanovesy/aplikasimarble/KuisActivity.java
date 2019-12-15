@@ -117,12 +117,12 @@ public class KuisActivity extends AppCompatActivity {
 
     public void isiSoal(){
         daftarSoal.add(new SoalLatihan(
-                "Nomer berapa yang dimaksud ibu guru?",
-                "Nomer 1",
-                "Nomer 5",
-                "Nomer 10",
-                "Nomer 100",
-                "Nomer 10",
+                "Angka berapakah itu?",
+                "Angka 1",
+                "Angka 5",
+                "Angka 10",
+                "Angka 100",
+                "Angka 10",
                 "/storage/emulated/0/Video/Angka/10.mp4"));
 
         daftarSoal.add(new SoalLatihan(
@@ -151,6 +151,16 @@ public class KuisActivity extends AppCompatActivity {
                 "Kue",
                 "Permen",
                 "/storage/emulated/0/Video/Makanan/Permen.mp4"));
+
+        daftarSoal.add(new SoalLatihan(
+                "Bahasa isyarat apakah ini?",
+                "Sedih",
+                "Senang",
+                "Sakit",
+                "Marah",
+                "Senang",
+                "/storage/emulated/0/Video/Perasaan/Senang.mp4"
+        ));
 
     }
 
