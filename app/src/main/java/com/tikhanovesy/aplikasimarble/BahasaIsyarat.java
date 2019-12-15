@@ -157,7 +157,6 @@ public class BahasaIsyarat extends AppCompatActivity implements ListAdapter.OnTi
                 mTitle.add(new ObjekBahasaIsyarat(text,"Asin",R.drawable.img_asin));
                 mTitle.add(new ObjekBahasaIsyarat(text,"Pedas",R.drawable.img_pedas));
                 mTitle.add(new ObjekBahasaIsyarat(text,"Pahit",R.drawable.img_0));
-                mTitle.add(new ObjekBahasaIsyarat(text,"Asam",R.drawable.img_0));
                 break;
         }
     }
